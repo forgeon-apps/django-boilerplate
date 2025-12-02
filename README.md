@@ -1,4 +1,4 @@
-[![Deploy with Forgeon](https://forgeon.io/button)](https://forgeon.io/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fforgeon%2Fexamples%2Ftree%2Fmain%2Fpython%2Fdjango&demo-title=Django%20%2B%20Forgeon&demo-description=Use%20Django%204%20on%20Forgeon%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fdjango-template.forgeon.io%2F&demo-image=https://assets.forgeon.io/image/upload/v1669994241/random/django.png)
+[![Deploy with Forgeon](https://forgeon.io/images/button-deploy/png/deploy-to-forgeon-6.png)](https://forgeon.io/projects?import=1&no_upload=1&auto=0&git_url=https%3A%2F%2Fgithub.com%2Fforgeon-apps%2Fdjango-boilerplate)
 
 # Django + Forgeon
 
@@ -103,4 +103,4 @@ Your Django application is now available at `http://localhost:8000`.
 
 Deploy the example using [Forgeon](https://forgeon.io?utm_source=github&utm_medium=readme&utm_campaign=forgeon-examples):
 
-[![Deploy with Forgeon](https://forgeon.io/button)](https://forgeon.io/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fforgeon%2Fexamples%2Ftree%2Fmain%2Fpython%2Fdjango&demo-title=Django%20%2B%20Forgeon&demo-description=Use%20Django%204%20on%20Forgeon%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fdjango-template.forgeon.io%2F&demo-image=https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1q6iiJ6482PK2VENhHpvtVYE2-I6L9zrA%26sz%3Dw1200)
+[![Deploy with Forgeon](https://forgeon.io/images/button-deploy/png/deploy-to-forgeon-6.png)](https://forgeon.io/projects?import=1&no_upload=1&auto=0&git_url=https%3A%2F%2Fgithub.com%2Fforgeon-apps%2Fdjango-boilerplate)
