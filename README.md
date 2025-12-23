@@ -34,11 +34,11 @@ The `wsgi` module must use a public variable named `app` to expose the WSGI appl
 app = get_wsgi_application()
 ```
 
-The corresponding `WSGI_APPLICATION` setting is configured to use the `app` variable from the `api.wsgi` module:
+The corresponding `WSGI_APPLICATION` setting is configured to use the `app` variable from the `app.wsgi` module:
 
 ```python
 # api/settings.py
-WSGI_APPLICATION = 'api.wsgi.app'
+WSGI_APPLICATION = 'app.wsgi.app'
 ```
 
 There is a single view which renders the current time in `example/views.py`:
